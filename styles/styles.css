@@ -21,10 +21,6 @@ img {
     box-shadow: 0 0 30px gray;
 }
 
-p {
-    padding: 10px;
-}
-
 main {
     max-width: 840px;
 }
@@ -54,7 +50,7 @@ main img {
     border-radius: 10px;
 }
 
-aside p {
+p {
     padding: 0;
 }
 
